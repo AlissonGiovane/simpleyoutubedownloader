@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giova\\source\\repos\\ytdownloader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0019D41-5AAC-454C-8C57-206310895BB3}|ytdownloader\\ytdownloader.vcxproj|C:\\Users\\giova\\source\\repos\\ytdownloader\\ytdownloader\\ytdownloader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0019D41-5AAC-454C-8C57-206310895BB3}|ytdownloader\\ytdownloader.vcxproj|solutionrelative:ytdownloader\\ytdownloader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ytdownloader.cpp",
+              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\ytdownloader\\ytdownloader\\ytdownloader.cpp",
+              "RelativeDocumentMoniker": "ytdownloader\\ytdownloader.cpp",
+              "ToolTip": "C:\\Users\\giova\\source\\repos\\ytdownloader\\ytdownloader\\ytdownloader.cpp",
+              "RelativeToolTip": "ytdownloader\\ytdownloader.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T06:28:36.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
